@@ -8,43 +8,41 @@ A proposta é criar um aplicativo de organização financeira pessoal baseado em
 ## 📝 PRD Refinado no Copilot Web
 
 ```
-## PRD – App de Organização Financeira com Conversa Natural
+# PRD - App de Organização Financeira com Conversa Natural
 
 ## Visão Geral
-Desenvolver um aplicativo de finanças pessoais baseado em conversas em linguagem natural.  
-A proposta é tornar o controle financeiro mais intuitivo, acessível e livre de burocracias como planilhas e formulários complexos.
+Criar um aplicativo de organização de finanças pessoais que funcione por meio de conversas em linguagem natural.  
+O objetivo é tornar o controle financeiro mais intuitivo, acessível e livre de burocracias como planilhas ou formulários complexos.
 
 ## Problema a Resolver
-Usuários iniciantes frequentemente abandonam apps de finanças por acharem o processo manual, técnico e pouco adaptável.  
-Este projeto busca oferecer uma experiência conversacional fluida, com automação inteligente e personalização, facilitando o engajamento contínuo.
+Muitas pessoas abandonam o controle financeiro por acharem os aplicativos atuais complicados, exigindo entradas manuais e oferecendo pouca personalização.  
+Queremos resolver isso com uma experiência conversacional fluida e recomendações automáticas que se adaptam ao perfil do usuário.
 
 ## Público-Alvo
-Pessoas que desejam começar a organizar suas finanças de forma prática e sem complicações, especialmente aquelas com pouca familiaridade com ferramentas financeiras tradicionais.
+Pessoas que desejam começar a organizar suas finanças de forma prática e sem complicações — especialmente iniciantes que não têm familiaridade com apps financeiros tradicionais.
 
-## Funcionalidades Principais
-- Registro de gastos via chat: O usuário informa seus gastos em linguagem natural, como “gastei R$ 30 no mercado”.
-- Classificação automática de transações: O app interpreta e categoriza os gastos com base no texto.
-- Metas financeiras personalizadas: O usuário define metas como “economizar R$ 500 até o fim do mês” e acompanha o progresso.
-- Agente Financeiro Inteligente: Um assistente virtual que oferece dicas de economia com base nos hábitos do usuário.
-- Relatórios visuais e personalizados: Visualizações simples e adaptadas ao estilo de cada usuário, com foco em clareza e relevância.
+## Funcionalidades-Chave
+1. Registro de gastos via chat: O usuário descreve seus gastos em linguagem natural, como “gastei R$ 30 no mercado”.
+2. Classificação automática de transações: O app identifica e categoriza os gastos com base no texto.
+3. Definição e acompanhamento de metas financeiras: O usuário pode criar metas como “economizar R$ 500 até o fim do mês”.
+4. Dicas personalizadas do Agente Financeiro: Um assistente virtual que sugere formas de economizar com base nos hábitos do usuário.
+5. Relatórios simples e personalizados: Visualizações claras dos gastos, metas e progresso, adaptadas ao estilo do usuário.
 
-## Design Universal – Acessibilidade para Todos
-A solução será desenvolvida com base nos princípios de Design Universal, garantindo que o aplicativo ofereça uma experiência positiva, intuitiva e acessível para o maior número possível de usuários, independentemente de idade, nível de alfabetização digital, limitações físicas, cognitivas ou sensoriais.
+## Princípio de Design Universal
+A solução será construída com base em Design Universal, garantindo que o aplicativo ofereça uma experiência acessível, intuitiva e inclusiva para o maior número possível de pessoas — independentemente de idade, nível de alfabetização digital, limitações físicas ou cognitivas.  
+Isso inclui:
+- Interface clara e legível
+- Navegação simples e sem sobrecarga de informações
+- Compatibilidade com leitores de tela e comandos por voz
+- Feedbacks visuais e auditivos para facilitar o uso
 
-Diretrizes práticas:
-- Interface clara, legível e responsiva em diferentes tamanhos de tela
-- Navegação simples, com foco em usabilidade e redução de esforço cognitivo
-- Compatibilidade com leitores de tela, comandos por voz e teclados alternativos
-- Feedbacks visuais e sonoros que reforçam ações e ajudam na compreensão
-- Linguagem acessível, com tom educativo e acolhedor
-
-## Entregável da IA – MVP
-A IA deve gerar um plano de MVP contendo:
-- Estrutura das principais telas: chat, metas, relatórios
-- Recursos técnicos essenciais: NLP (Processamento de Linguagem Natural), categorização automática, motor de recomendações
-- Estratégia de validação com usuários reais (testes rápidos e feedbacks)
+## Entregável da IA
+Gerar um plano de MVP contendo:
+- As principais telas (chat, metas, relatórios)
+- Recursos técnicos necessários (NLP, categorização automática, motor de recomendações)
+- Estratégia de validação inicial com usuários reais
 - Linguagem acessível e tom educativo, em português
-- Aplicação dos princípios de Design Universal desde o protótipo inicial
+- Aplicação dos princípios de Design Universal desde o protótipo
 ```
 ---
 
