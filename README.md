@@ -7,6 +7,7 @@ A proposta é criar um aplicativo de organização financeira pessoal baseado em
 
 ## 📝 PRD Refinado no Copilot Web
 
+```
 ### PRD – App de Organização Financeira com Conversa Natural
 
 #### Visão Geral
@@ -44,6 +45,8 @@ A IA deve gerar um plano de MVP contendo:
 - Estratégia de validação com usuários reais (testes rápidos e feedbacks)
 - Linguagem acessível e tom educativo, em português
 - Aplicação dos princípios de Design Universal desde o protótipo inicial
+```
+---
 
 ## 💬 Interações com o Lovable
 
