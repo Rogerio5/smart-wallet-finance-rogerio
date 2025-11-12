@@ -8,27 +8,27 @@ A proposta é criar um aplicativo de organização financeira pessoal baseado em
 ## 📝 PRD Refinado no Copilot Web
 
 ```
-### PRD – App de Organização Financeira com Conversa Natural
+## PRD – App de Organização Financeira com Conversa Natural
 
-#### Visão Geral
+## Visão Geral
 Desenvolver um aplicativo de finanças pessoais baseado em conversas em linguagem natural.  
 A proposta é tornar o controle financeiro mais intuitivo, acessível e livre de burocracias como planilhas e formulários complexos.
 
-#### Problema a Resolver
+## Problema a Resolver
 Usuários iniciantes frequentemente abandonam apps de finanças por acharem o processo manual, técnico e pouco adaptável.  
 Este projeto busca oferecer uma experiência conversacional fluida, com automação inteligente e personalização, facilitando o engajamento contínuo.
 
-#### Público-Alvo
+## Público-Alvo
 Pessoas que desejam começar a organizar suas finanças de forma prática e sem complicações, especialmente aquelas com pouca familiaridade com ferramentas financeiras tradicionais.
 
-#### Funcionalidades Principais
+## Funcionalidades Principais
 - Registro de gastos via chat: O usuário informa seus gastos em linguagem natural, como “gastei R$ 30 no mercado”.
 - Classificação automática de transações: O app interpreta e categoriza os gastos com base no texto.
 - Metas financeiras personalizadas: O usuário define metas como “economizar R$ 500 até o fim do mês” e acompanha o progresso.
 - Agente Financeiro Inteligente: Um assistente virtual que oferece dicas de economia com base nos hábitos do usuário.
 - Relatórios visuais e personalizados: Visualizações simples e adaptadas ao estilo de cada usuário, com foco em clareza e relevância.
 
-#### Design Universal – Acessibilidade para Todos
+## Design Universal – Acessibilidade para Todos
 A solução será desenvolvida com base nos princípios de Design Universal, garantindo que o aplicativo ofereça uma experiência positiva, intuitiva e acessível para o maior número possível de usuários, independentemente de idade, nível de alfabetização digital, limitações físicas, cognitivas ou sensoriais.
 
 Diretrizes práticas:
@@ -38,7 +38,7 @@ Diretrizes práticas:
 - Feedbacks visuais e sonoros que reforçam ações e ajudam na compreensão
 - Linguagem acessível, com tom educativo e acolhedor
 
-#### Entregável da IA – MVP
+## Entregável da IA – MVP
 A IA deve gerar um plano de MVP contendo:
 - Estrutura das principais telas: chat, metas, relatórios
 - Recursos técnicos essenciais: NLP (Processamento de Linguagem Natural), categorização automática, motor de recomendações
