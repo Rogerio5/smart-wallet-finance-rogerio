@@ -65,7 +65,7 @@ Acesse o protótipo funcional no Lovable:
 
 ![Capa do Projeto - Finanças Pessoais](Lovable.png)
 ![Capa do Projeto - Finanças Pessoais](Lovable1.png)
-![Capa do Projeto - Finanças Pessoais](Lovable2.png)
+![Capa do Projeto - Finanças Pessoais](Lovable3.png)
 
 ---
 
